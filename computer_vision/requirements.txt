@@ -1,0 +1,6 @@
+imageio
+memory_profiler
+numpy
+Pillow
+pytest
+scipy
