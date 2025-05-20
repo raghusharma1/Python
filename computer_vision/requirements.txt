@@ -1,0 +1,6 @@
+imageio
+numpy
+opencv_python
+Pillow
+pytest
+scipy
